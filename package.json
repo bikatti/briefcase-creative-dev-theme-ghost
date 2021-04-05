@@ -1,0 +1,25 @@
+{
+  "name": "briefcase-creative-dev",
+  "version": "1.0.0",
+  "description": "briefcase for a creative developers of Frontend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bikatti/briefcase-creative-dev-theme-ghost.git"
+  },
+  "keywords": [
+    "Ghost",
+    "Theme",
+    "frontend",
+    "hbs"
+  ],
+  "author": "Bikatti",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bikatti/briefcase-creative-dev-theme-ghost/issues"
+  },
+  "homepage": "https://github.com/bikatti/briefcase-creative-dev-theme-ghost#readme"
+}
