@@ -1,6 +1,6 @@
 {
   "name": "briefcase-creative-dev",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "briefcase for a creative developers of Frontend",
   "main": "index.js",
   "scripts": {
@@ -16,7 +16,11 @@
     "frontend",
     "hbs"
   ],
-  "author": "Bikatti",
+  "author": {
+    "name": "Bikatti",
+    "email": "ibikatti@gmail.com",
+    "url": "https://bikatti.com/"
+},
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/bikatti/briefcase-creative-dev-theme-ghost/issues"
